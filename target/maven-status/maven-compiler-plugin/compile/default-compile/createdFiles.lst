@@ -1,0 +1,8 @@
+com/emmanuel/futbol/model/Jugador.class
+com/emmanuel/futbol/model/Jugador$Builder.class
+com/emmanuel/futbol/controller/JugadorController.class
+com/emmanuel/futbol/service/JugadorService.class
+com/emmanuel/futbol/dao/JugadorDAO.class
+com/emmanuel/futbol/dao/JugadorJpaRepository.class
+com/emmanuel/futbol/FutbolApplication.class
+com/emmanuel/futbol/dao/JugadorDAOImpl.class

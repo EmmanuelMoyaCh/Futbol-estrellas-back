@@ -1,0 +1,6 @@
+/home/emmanuel/Descargas/Futbol_BACK/src/main/java/com/emmanuel/futbol/FutbolApplication.java
+/home/emmanuel/Descargas/Futbol_BACK/src/main/java/com/emmanuel/futbol/controller/JugadorController.java
+/home/emmanuel/Descargas/Futbol_BACK/src/main/java/com/emmanuel/futbol/dao/JugadorDAO.java
+/home/emmanuel/Descargas/Futbol_BACK/src/main/java/com/emmanuel/futbol/dao/JugadorDAOImpl.java
+/home/emmanuel/Descargas/Futbol_BACK/src/main/java/com/emmanuel/futbol/model/Jugador.java
+/home/emmanuel/Descargas/Futbol_BACK/src/main/java/com/emmanuel/futbol/service/JugadorService.java
